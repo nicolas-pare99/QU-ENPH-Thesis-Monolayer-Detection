@@ -1,4 +1,4 @@
-To run this detector or parameter estimator, ALWAYS start by double-clicking “start_jupyter_environment.bat” found in this folder.
+For STI 129 computer: To run this detector or parameter estimator, ALWAYS start by double-clicking “start_jupyter_environment.bat” found in this folder.
 
 There are two trained parameters for MoS2 (molybdenum disulfide) in the “trained_parameters” file, but they are not perfect. 
 
